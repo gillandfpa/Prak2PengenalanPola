@@ -1,11 +1,9 @@
-**Topik dalam Pengenalan Pola - KOM1622**
+# **Topik dalam Pengenalan Pola - KOM1622**
 
-**Praktikum Pertemuan 1 & 2**
+## **Praktikum Pertemuan 1 & 2**
 
 
-Gilland Fausta Putra Achyar
-
-M0503241036
+Gilland Fausta Putra Achyar (M0503241036)
 
 Magister Ilmu Komputer
 
